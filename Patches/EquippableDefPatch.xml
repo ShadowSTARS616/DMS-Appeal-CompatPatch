@@ -1,0 +1,35 @@
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/Fortified.HeavyEquippableDef[defName="AverageHumanCanUse"]/EquippableWithApparel</xpath>
+    <value>
+      <li MayRequire="ancot.kiirorace">Kiiro_Stealth</li>
+      <li MayRequire="ancot.kiirorace">Kiiro_StealthII</li>
+	  <li MayRequire="ancot.kiirorace">Kiiro_ValorArmor</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/Fortified.HeavyEquippableDef[defName="LightAutomatroid"]/EquippableWithApparel</xpath>
+    <value>
+      <li MayRequire="oark.ratkinfaction.oberoniaaurea">OA_RK_New_Windbreaker_E</li>
+      <li MayRequire="nemonian.my">Moyo_LDgear</li>
+	  <li>Apparel_ArmorRecon</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/Fortified.HeavyEquippableDef[defName="StandardAutomatroid"]/EquippableWithApparel</xpath>
+    <value>
+      <li MayRequire="oark.ratkinfaction.oberoniaaurea">OA_RK_New_Windbreaker_G</li>
+      <li MayRequire="nemonian.my">Moyo_DDgear</li>
+	  <li MayRequire="nemonian.my">Moyo_GSsuit</li>\
+	  <li MayRequire="ceteam.combatextended">CE_Apparel_ExoFrame</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/Fortified.HeavyEquippableDef[defName="BulkyAutomatroid"]/EquippableWithApparel</xpath>
+    <value>
+      <li MayRequire="oark.ratkinfaction.oberoniaaurea">OA_RK_New_Windbreaker_FangzhiBUGdehouzhui_ACC</li>
+	  <li MayRequire="oark.ratkinfaction.oberoniaaurea">OA_RK_New_Windbreaker_FangzhiBUGdehouzhui</li>
+      <li MayRequire="nemonian.my">Moyo_GDsuit</li>
+    </value>
+  </Operation>
+</Patch>

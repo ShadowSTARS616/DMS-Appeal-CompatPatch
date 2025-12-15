@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>DMS Apparel Compatibility Patch</name>
+	<author>ShadowSTARS616</author>
+	<packageId>shadowstars616.DMS.apparel.CompatPatch</packageId>
+	<description>
+  让更多mod服装（动力甲）能够使用失能机关需要特定体型装备的武器。可能会有点不平衡（过强）Enables more modded apparel (power armor) to use weapons that require a specific body type for DMS.
+  如果你不安装下列其他mod，则仅添加原版斥候甲的支持。If the following additional mods are not installed, only vanilla recon armor support is added.
+  目前支持/supported mods：
+  [OA]Ratkin Faction: Oberonia aurea
+  [1.6] Moyo - from the depth
+  Kiiro Race
+  Combat extended
+  
+  服装能拿多大的武器是根据服装的动力甲相关描述、科技水平、负重加成、造价决定，以及亿点点私心（绮罗怎么没有动力甲，怎么会事呢）
+  没有其他的主要是因为目前我只带了这些mod在玩（
+  
+  各服装能拿起的最大等级：
+  1.0体型:
+  绮罗夜行衣（kiiro）kiiro stealth clothes
+  绮罗影袭者战服（kiiro）kiiro shadow strike suit
+  绮罗勇者甲胄（kiiro）kiiro valor armor
+  
+  1.1体型：
+  突袭作战裙甲（OA）Assault Combat Skirt Armor
+  深海潜水服（moyo）moyo diving gear
+  斥候甲（原版）recon armor (Vanilla)
+  
+  1.4体型：
+  全防护突袭装甲（OA）Full protective assault armor
+  深海高级潜水服（moyo）moyo deepdiving gear
+  深海轻型皇家卫队装甲（moyo）Moyo royalguard light armor
+  动力外骨骼（CE）powered exoframe
+  海军甲（原版，仅用作对比）marine armor (Vanilla, only for compare)
+  
+  1.7体型：
+  重装突袭作战护甲有/无披风（OA）Heavy assault armor A/B
+  深海皇家卫队装甲（moyo）Moyo royalguard armor
+  骑士甲（原版，仅用作对比）cataphract armor (Vanilla, only for compare)
+	</description>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+		<packageId>Aoba.DeadManSwitch.Core</packageId>
+		<displayName>Dead Man's Switch</displayName>
+		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+	</li>
+	</modDependencies>
+	<loadAfter>
+    	<li>Aoba.DeadManSwitch.Core</li>
+  	</loadAfter>
+</ModMetaData>
