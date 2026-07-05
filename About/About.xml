@@ -4,39 +4,204 @@
 	<author>ShadowSTARS616</author>
 	<packageId>shadowstars616.DMS.apparel.CompatPatch</packageId>
 	<description>
-  让更多mod服装（动力甲）能够使用失能机关需要特定体型装备的武器。可能会有点不平衡（过强）Enables more modded apparel (power armor) to use weapons that require a specific body type for DMS.
-  如果你不安装下列其他mod，则仅添加原版斥候甲的支持。If the following additional mods are not installed, only vanilla recon armor support is added.
-  目前支持/supported mods：
+让原版斥候甲和更多mod服装（动力甲）能够使用失能机关需要特定体型装备的武器。可能会有点不平衡（过强）Enables vanilla recon armor and more modded apparel (power armor) to use weapons that require a specific body type for DMS.
+如果你不安装下列其他mod，则仅添加原版斥候甲的支持。If the following additional mods are not installed, only vanilla recon armor support is added.
+
+目前支持/supported mods：
   [OA]Ratkin Faction: Oberonia aurea
   [1.6] Moyo - from the depth
   Kiiro Race
   Combat extended
+
+  已新增支持/Added support for ：
+  （这边的mod我玩得比较少或者根本不玩，如果出现遗漏或者错误，请告诉我以便进行修复/I don't play these mods much or at all, so if anything is missing or wrong, please let me know so I can fix it）
+  Vanilla Armour Expanded
+  Ratkin Weapons+
+  [1.6] Moyo - The Cartel Arrives
+  Miho, the celestial fox
+  Moyo2.0-Blood stained business
+  Milira Race
+  MoeLotl Race
+  Wolfein Race
+  联合重工-UF Heavy Industries
+  联合重工-龙骑兵拓展 UFHI-MobileDragoon
+  Ratkin clothes维多利亚的港湾
+  Vanilla Factions Expanded - Pirates
+  WarCasket Expanded
+  Milira:Wings of Democracy V1.0
+  Milira Faction: Milira Imperium
+  [RH2] Faction: Utilitarian
+  Dead Space Equipment
+  Altered Carbon 2: ReSleeved
+  CeleTech Arsenal MKIII
+  Rabbie The Moonrabbit race
+  Epona Dynastic Rise
   
-  服装能拿多大的武器是根据服装的动力甲相关描述、科技水平、负重加成、造价决定，以及亿点点私心（绮罗怎么没有动力甲，怎么会事呢）
-  没有其他的主要是因为目前我只带了这些mod在玩（
+服装能拿多大的武器是根据服装的动力甲相关描述、科技水平、负重加成、造价决定，以及亿点点私心（绮罗怎么没有动力甲，怎么会事呢）
+没有其他的主要是因为目前我只带了这些mod在玩（
   
-  各服装能拿起的最大等级：
-  1.0体型:
-  绮罗夜行衣（kiiro）kiiro stealth clothes
-  绮罗影袭者战服（kiiro）kiiro shadow strike suit
-  绮罗勇者甲胄（kiiro）kiiro valor armor
-  
-  1.1体型：
-  突袭作战裙甲（OA）Assault Combat Skirt Armor
-  深海潜水服（moyo）moyo diving gear
-  斥候甲（原版）recon armor (Vanilla)
-  
-  1.4体型：
-  全防护突袭装甲（OA）Full protective assault armor
-  深海高级潜水服（moyo）moyo deepdiving gear
-  深海轻型皇家卫队装甲（moyo）Moyo royalguard light armor
-  动力外骨骼（CE）powered exoframe
-  海军甲（原版，仅用作对比）marine armor (Vanilla, only for compare)
-  
-  1.7体型：
-  重装突袭作战护甲有/无披风（OA）Heavy assault armor A/B
-  深海皇家卫队装甲（moyo）Moyo royalguard armor
-  骑士甲（原版，仅用作对比）cataphract armor (Vanilla, only for compare)
+各服装能拿起的最大等级：
+	原版/Vanilla
+1.0:斥候甲/recon armor (新增/added)
+1.4:海军甲/marine armor (原有/for compare)
+1.7:骑士甲/cataphract armor (原有/for compare)
+
+	[OA]Ratkin Faction: Oberonia aurea
+1.1:突袭作战裙甲/Assault Combat Skirt Armor
+1.4:全防护突袭装甲（OA）Full protective assault armor
+1.7:重装突袭作战护甲/Heavy assault armor
+
+	Kiiro Race
+1.0:绮罗夜行衣/kiiro stealth clothes
+	绮罗影袭者战服/kiiro shadow strike suit
+	绮罗勇者甲胄/kiiro valor armor
+
+	[1.6] Moyo - from the depth
+1.1:深海潜水服/moyo diving gear
+1.4:深海高级潜水服/moyo deepdiving gear
+	深海轻型皇家卫队装甲/Moyo royalguard light armor
+1.7:深海皇家卫队装甲/Moyo royalguard armor
+
+	Combat extended
+1.4:动力外骨骼/powered exoframe
+
+	新适配mod：
+	Vanilla Armour Expanded
+1.1:游击装甲/trooper armor (含圣装版本/Royal version included)
+1.7:破袭装甲/siegebreaker armor (含圣装版本/Royal version included)
+
+	Ratkin Weapons+
+1.0:鼠族特战服/ratkin battlesuit
+
+	[1.6] Moyo - The Cartel Arrives
+1.1:深海罪企突击装甲/Cartel striker gear
+1.7:深海罪企代行者套装/Cartel executioner suit
+
+	Miho, the celestial fox
+1.1:美狐流徙者战斗服/Miho Pariah Battle Suit
+1.4:美狐军用外骨骼/Miho Exoskeleton Heavy Armor
+	美狐机控外骨骼/Miho Mechanitor Exoskeleton
+
+	Moyo2.0-Blood stained business
+1.1:深海流线潜水服/streamlined diving shell
+1.4:深海潜水服/depth diving shell
+
+	Milira Race
+1.7:米莉拉瓦尔基里战甲/milira Valkyr Armor
+米莉拉代达罗斯战甲/milira Dardalus Armor
+米莉拉阿忒弥斯战甲/milira Artemis Armor
+
+	MoeLotl Race
+1.4:云鲸御甲/MoeLotl Celestial Whale Armour
+1.7:焰凰御甲/MoeLotl Flame VermilionBird Armour
+
+	Wolfein Race
+1.1:沃芬族抵抗军动力甲/Wolfein Rebel Power Armor
+      沃芬族斥候动力甲/Wolfein Scout Power Armor
+1.4:沃芬族禁卫动力甲/Wolfein Guard Power Armor
+      沃芬族抵抗军重型动力甲/Wolfein Rebel Heavy Power Armor
+      沃芬族前世代斥候动力甲/Wolfein Imperial Scout Power Armor
+      沃芬族AIPT重型动力甲/Wolfein AIPT Heavy Power Armor
+1.7:沃芬族重型动力甲/Wolfein Heavy Power Armor
+      沃芬族前世代禁卫动力甲/Wolfein Imperial Guard Power Armor
+      
+	联合重工-UF Heavy Industries
+1.7:枪骑兵PA-22重型动力装甲/Lancer PA-22 Heavy Power Armor
+
+	联合重工-龙骑兵拓展 UFHI-MobileDragoon
+2.5:军阀PE-2龙骑兵核心模块/KT-Module-PE2-core
+
+	Ratkin clothes维多利亚的港湾(chinese only)
+1.1:先驱者战甲
+1.4:麦克斯韦MK空地装甲（外甲）
+1.7:纳米合金战甲（外甲）
+
+	原版海盗拓展/Vanilla Factions Expanded - Pirates
+1.1:基础型无畏战棺装甲/Warcasket
+1.4:斥候型无畏战棺装甲/Recon warcasket
+	海军型无畏战棺装甲/Marine warcasket
+1.7:骑士型无畏战棺装甲/Cataphract warcasket
+	强袭型无畏战棺装甲/Shock warcasket
+	突击型无畏战棺装甲/Aerial warcasket
+	险境型无畏战棺装甲/Hazard warcasket
+2.0:火力型无畏战棺装甲/Barrage warcasket
+	圣盾型无畏战棺装甲/Guardian warcasket
+	死灵型无畏战棺装甲/Sarcophagus warcasket
+	狂怒型无畏战棺装甲/Burte warcasket
+	破袭型无畏战棺装甲/Siegebreaker warcasket
+	统控型无畏战棺装甲/Controller warcasket
+	
+	战棺拓展/WarCasket Expanded
+1.1:哨兵型无畏战棺装甲/Sentinel warcasket
+1.4:守护者型无畏战棺装甲/Guardian warcasket
+1.7:暴君型无畏战棺装甲/Tyrant warcasket
+	百夫长型无畏战棺装甲/Centurion warcasket
+	
+	米莉拉：民主之翼/Milira:Wings of Democracy
+1.7: 米莉拉利维坦战甲/Milira Leviathan Armor
+	
+	米莉拉帝国/Milira Faction: Milira Imperium
+1.4:米莉拉塞勒涅战甲/Milira Selene Armor
+	米莉拉动力装甲/Milira Marine Power Armor
+	米莉拉幽灵战斗服/Milira Ghost Combat Suit
+1.7:米莉拉波塞冬动力装甲/Milira Poseidon Power Armor
+	
+	[RH2] Faction: Utilitarian
+1.4:UTIL1 矢量号装甲/UTIL1 Vector armor
+	UTIL2 华年号装甲/UTIL2 Prime armor
+	UTIL3 奥密克戎号装甲/UTIL3 Omicron armor
+	UTIL4 双螺旋号装甲/UTIL4 Helix armor
+
+	死亡空间装备/Dead Space Equipment
+1.1:工程师RIG防护服/Engineer RIG Armor
+1.4:军用RIG防护服/Military RIG Armor
+	
+	Altered Carbon 2: ReSleeved
+1.0:环境防护装甲/Enviro Suit
+1.7:结蛹级装甲/Chrysails armor
+	龙骑士装甲/Dragoon armor
+	火枪手装甲/Fusilier armor
+
+	天工铸造3/CeleTech Arsenal MKIII
+1.7:BD-01Y 玄罡 基础型动力甲/BD-01Y "Xuangang" Power Armor
+2.0:BD-02Y 镇岳 重型动力甲/BD-02Y "Zhenyue" Power Armor
+
+	月兔族/Rabbie The Moonrabbit race
+1.4:月兔正规军动力装甲/Rabbie Regulararmy Powerarmor
+
+	艾波娜：王朝崛起/Epona Dynastic Rise
+1.4:艾波娜蒸汽动力装甲/Epona Munition Steam Armor
+1.7:艾波娜皇家蒸汽动力装甲/Epona Royal Power Armor
+
+	The Brotherhood Compendium 1.6
+1.1:T-51b动力甲/T-51b Power Armor
+	ST-432护甲/
+	ST-50动力装甲/ST-50 Power Armor
+	兄弟会ST-50动力装甲/Brotherhood ST-50 Power Armor
+	警戒动力甲/Vigilant Power Armor
+1.4:中西分部动力装甲/Midwestern Power Armor
+	T60动力甲
+	长老动力装甲/Elder Power Armor
+	先进的动力甲/Advanced Power Armor
+1.7:先进的动力甲Mk2/Advanced Power Armor Mk2
+	X-02动力甲/Enclave power armor
+	X-02动力甲 Mk2（特斯拉）/Enclave Tesla armor
+	X-02动力甲 Mk6/X01 Mk6 Power armor
+
+	NewRatkinPlus
+1.0:鼠族特战服/Ratkin battlesuit
+	鼠族真空服/Vacsuit
+1.7:鼠族骑士装甲/Cataphract armor
+
+	[SRC]美狐:星环公司/[SRC]Miho,Star Ring Corporation
+1.1:战场支援护甲（普通、燃解、电弧）/Battlefield support armor (common, EA, PD)
+1.4:星环辅助外骨骼/Miho exoskeleton framework
+	MKIII动力系统/MKIII power system
+	推进动力装甲/Propulsion power armor
+	重型镇暴装甲/Police Armor
+	"险境"防护性外骨骼装甲/"Dangerous Situation" protective exoskeleton armor
+1.7:潜航外骨骼作战服/Diving suit
+
 	</description>
 	<supportedVersions>
 		<li>1.6</li>
